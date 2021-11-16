@@ -1,5 +1,12 @@
 week 46 2021.11.15 ~ 2021.11.19
 
+## NET
+
+* [How to win at CORS](https://jakearchibald.com/2021/cors/)：关于跨域
+* []()
+* []()
+
+
 ## CSS
 
 * [Icon Glassmorphism Effect in CSS](https://css-tricks.com/icon-glassmorphism-effect-in-css/?utm_source=CSS-Weekly&utm_campaign=Issue-481&utm_medium=email)：css效果类，实现图标的玻璃态动画
@@ -27,4 +34,7 @@ week 46 2021.11.15 ~ 2021.11.19
 * [Photoshop's journey to the web](https://web.dev/ps-on-the-web/)：web版Photoshop简介
 * [robotjs](https://www.npmjs.com/package/robotjs)：跨平台桌面自动化机器人，控制鼠标、键盘，读取屏幕
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：javascript算法库
+* [How to Dockerize an Existing Node.js Application](https://blog.appsignal.com/2021/10/19/how-to-dockerize-an-existing-nodejs-application.html)：node应用docker化
+* [Introducing Sapling: a VS Code Extension for Traversing React Component Hierarchy](https://javascript.plainenglish.io/introducing-sapling-a-vs-code-extension-for-traversing-your-react-component-hierarchy-3ac94d95887e)：可层级展示react组件的引用关系，存在一定问题，可供研究
+* [Pipcook](https://alibaba.github.io/pipcook/#/zh-cn/README)：阿里巴巴出品的nodejs机器学习框架
 * []()
