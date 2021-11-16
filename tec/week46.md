@@ -12,7 +12,7 @@ week 46 2021.11.15 ~ 2021.11.19
 ## PERFORMANCE
 
 * [Towards an animation smoothness metric](https://web.dev/smoothness/?utm_source=CSS-Weekly&utm_campaign=Issue-481&utm_medium=email)：衡量动画顺滑度的指标
-* []()
+* [Identify potential CSS improvements](https://developer.chrome.com/docs/devtools/css-overview/?utm_source=CSS-Weekly&utm_campaign=Issue-480&utm_medium=email)：chrome浏览器css overview帮助优化css
 * []()
 * []()
 * []()
@@ -25,6 +25,6 @@ week 46 2021.11.15 ~ 2021.11.19
 ## TOOLS
 * [How to Generate Beautiful PDFs with React and Puppeteer](https://blog.theodo.com/2021/10/pdf-generation-react-puppeteer/)：生成PDF
 * [Photoshop's journey to the web](https://web.dev/ps-on-the-web/)：web版Photoshop简介
-* []()
-* []()
+* [robotjs](https://www.npmjs.com/package/robotjs)：跨平台桌面自动化机器人，控制鼠标、键盘，读取屏幕
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：javascript算法库
 * []()
