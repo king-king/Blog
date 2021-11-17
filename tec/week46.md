@@ -8,6 +8,7 @@ week 46 2021.11.15 ~ 2021.11.19
 * [现代 Web 开发困境与破局](https://zhuanlan.zhihu.com/p/389935233?utm_source=zhihu&utm_medium=social&utm_oi=26715602550784)：对前端未来的思考
 * [Web Infrastructure Team](https://webinfra.org/)：字节前端团队官网，内容较佳
 * [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://zhuanlan.zhihu.com/p/386607009)
+* [使用 Node.js 将图片中的苹果变成橘子](https://zhuanlan.zhihu.com/p/166588487)：前端参与机器学习
 
 
 ## CSS
@@ -32,7 +33,7 @@ week 46 2021.11.15 ~ 2021.11.19
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)：javascript算法库
 * [How to Dockerize an Existing Node.js Application](https://blog.appsignal.com/2021/10/19/how-to-dockerize-an-existing-nodejs-application.html)：node应用docker化
 * [Introducing Sapling: a VS Code Extension for Traversing React Component Hierarchy](https://javascript.plainenglish.io/introducing-sapling-a-vs-code-extension-for-traversing-your-react-component-hierarchy-3ac94d95887e)：可层级展示react组件的引用关系，存在一定问题，可供研究
-* [Pipcook](https://alibaba.github.io/pipcook/#/zh-cn/README)：阿里巴巴出品的nodejs机器学习框架
+* [Pipcook](https://alibaba.github.io/pipcook/#/zh-cn/README)：阿里巴巴出品的nodejs机器学习框架，帮助前端参与机器学习项目
 * [APIJSON](https://github.com/Tencent/APIJSON)：腾讯出品，前后端接口解决方案
 * [Rich-Harris/sourcemap-codec](https://github.com/Rich-Harris/sourcemap-codec)：sourcemap编码/解码
 * [Rich-Harris/vlq](https://github.com/Rich-Harris/vlq#readme)：vlq编码/解码
