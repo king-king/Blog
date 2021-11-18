@@ -38,3 +38,4 @@ week 46 2021.11.15 ~ 2021.11.19
 * [Rich-Harris/sourcemap-codec](https://github.com/Rich-Harris/sourcemap-codec)：sourcemap编码/解码
 * [Rich-Harris/vlq](https://github.com/Rich-Harris/vlq#readme)：vlq编码/解码
 * [source-map](https://www.npmjs.com/package/source-map)：生成sourcemap
+* [前端智能化—思维转变之路](https://juejin.cn/post/6844904104448393223)：前端如何适应智能化
