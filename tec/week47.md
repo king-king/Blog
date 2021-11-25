@@ -9,9 +9,12 @@
 * []()
 * []()
 
-## 
+## GraphQL
 
 * [egg-graphql](https://github.com/eggjs/egg-graphql)
 * [graphiql](https://github.com/graphql/graphiql)
 * [monaco-graphql](https://github.com/graphql/graphiql/tree/main/packages/monaco-graphql)
+* [三分钟快速解析GraphQL基本工作思路！](https://zhuanlan.zhihu.com/p/285711646)
+* []()
+* []()
 * []()
