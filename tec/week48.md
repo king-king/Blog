@@ -43,7 +43,7 @@
 * [progress.js](https://github.com/NathanPB/progress.js)：可自定义的命令行进度条
 * [Video for Node with Mux](https://mux.com/for/node/?utm_campaign=q4_sponsorednewsletter_21&utm_source=node_weekly&utm_medium=cooperpress-newsletter&utm_content=node)：在node.js中使用video
 * [Some notes on using esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)：介绍esbuild用法
-* []()
+* [Migrating from Puppeteer to Playwright](https://www.checklyhq.com/guides/puppeteer-to-playwright/)：比较`Puppeteer`和`Playwright`
 * []()
 * []()
 * []()
