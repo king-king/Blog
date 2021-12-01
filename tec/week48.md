@@ -45,6 +45,9 @@
 * [Some notes on using esbuild](https://jvns.ca/blog/2021/11/15/esbuild-vue/)：介绍esbuild用法
 * [Migrating from Puppeteer to Playwright](https://www.checklyhq.com/guides/puppeteer-to-playwright/)：比较`Puppeteer`和`Playwright`
 * [Tools to help diagnose and pinpoint Node.js performance issues](https://clinicjs.org/)：nodejs性能监测工具
+* [swc](https://github.com/swc-project/swc)：rust版的ts、js编译器
+* []()
+* []()
 * []()
 
 ## 技能
@@ -55,4 +58,7 @@
 * []()
 * []()
 * []()
-* []()
+
+## 前沿研究
+
+* [Eye-Tracking In Mobile UX Research](https://www.smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/)：移动端人眼关注点
