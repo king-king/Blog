@@ -32,8 +32,6 @@
 * [Using WebAssembly (created in Rust) for Fast React Components](https://www.joshfinnie.com/blog/using-webassembly-created-in-rust-for-fast-react-components/)：高性能react组件
 * [7 Ways to Improve Node.js Performance at Scale](https://blog.appsignal.com/2021/11/24/7-ways-to-improve-nodejs-performance-at-scale.html)
 * [Understanding why our build got 15x slower with Webpack 5](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)：webpack5性能分析文章
-* []()
-* []()
 
 ## 工具
 
@@ -46,18 +44,14 @@
 * [Migrating from Puppeteer to Playwright](https://www.checklyhq.com/guides/puppeteer-to-playwright/)：比较`Puppeteer`和`Playwright`
 * [Tools to help diagnose and pinpoint Node.js performance issues](https://clinicjs.org/)：nodejs性能监测工具
 * [swc](https://github.com/swc-project/swc)：rust版的ts、js编译器
-* []()
-* []()
-* []()
+* [pollyjs](https://github.com/Netflix/pollyjs)：Netflix出品的http请求记录、回放工具
 
 ## 技能
 
 * [Using Node.js to create an HTTP proxy for IPFS content](https://blog.logrocket.com/using-node-js-http-proxy-ipfs-content/)
 * [Create Memory and Type-Safe Node.js Modules with Rust](https://levelup.gitconnected.com/create-memory-and-type-safe-node-js-modules-with-rust-2c10bba92013)
 * [3D 蛋糕](https://codepen.io/ShadowShahriar/pen/ZEJerdX?utm_source=CSS-Weekly&utm_campaign=Issue-482&utm_medium=email)
-* []()
-* []()
-* []()
+* [24 days from node.js to Rust](https://vino.dev/blog/node-to-rust-day-1-rustup/)：rust学习教程
 
 ## 前沿研究
 
