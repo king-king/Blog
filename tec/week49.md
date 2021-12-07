@@ -11,3 +11,12 @@
 * []()
 * []()
 * []()
+
+
+## 知识
+
+* [String vs &str in Rust](https://blog.thoughtram.io/string-vs-str-in-rust/)：深入讲解rust中字符串原理
+* []()
+* []()
+* []()
+* []()
