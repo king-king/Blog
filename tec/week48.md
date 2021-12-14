@@ -12,6 +12,7 @@
 * **[干货 | 万字长文全面解析GraphQL，携程微服务背景下的前后端数据交互方案](https://cloud.tencent.com/developer/article/1484498)**
 * **[减少重复开发，GraphQL 在低代码平台如何落地？](https://www.infoq.cn/article/cwtujhymt6djgqohise2)：GraphQL在爱奇艺团队的实践**
 * **[GraphQL 在酒店系统上的实践](https://blog.csdn.net/weixin_45526640/article/details/113601065)：GraphQL在去哪儿团队的实践**
+* **[GraphQL及元数据驱动架构在后端BFF中的实践](https://tech.meituan.com/2021/05/06/bff-graphql.html)：GraphQL在美团团队的实践**
 
 
 ## 性能
