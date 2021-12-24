@@ -19,6 +19,6 @@
 
 ## 知识
 
-* []()
+* [12 Front End Performance Patterns You Need to Know](https://medium.com/geekculture/12-front-end-performance-patterns-you-need-to-know-def550620464)：12种性能模式
 * []()
 * []()
