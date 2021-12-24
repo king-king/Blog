@@ -21,7 +21,7 @@
 
 * [12 Front End Performance Patterns You Need to Know](https://medium.com/geekculture/12-front-end-performance-patterns-you-need-to-know-def550620464)：12种性能模式
 * [HTTP/3 From A To Z: Core Concepts (Part 1)](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)：HTTP3知识
-* []()
+* [设计数据密集型应用 - 中文翻译](https://github.com/Vonng/ddia)
 * []()
 * []()
 * []()
