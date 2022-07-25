@@ -8,16 +8,7 @@
 * [关于队头阻塞（Head-of-Line blocking），看这一篇就足够了](https://zhuanlan.zhihu.com/p/330300133)
 * [React SSR 详解【近 1W 字】+ 2个项目实战](https://juejin.cn/post/6844904017487724557)
 * [微前端架构推进参考资料汇总](https://github.com/iuap-design/blog/issues/382)
-* []()
-* []()
-* []()
-* []()
 
 ## 代码库
 
 * [babylonjs](https://www.babylonjs.com/)：微软开发的3D图形库，为元宇宙在web端铺路
-* []()
-* []()
-* []()
-* []()
-* []()
