@@ -4,14 +4,6 @@
 
 * [graphql-request](https://github.com/prisma-labs/graphql-request)：简单的GraphQL实现
 * [nock](https://github.com/nock/nock)：HTTP 服务器mock库
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ## 观点
 
@@ -20,6 +12,3 @@
 ## 知识
 
 * [Fonts Knowledge](https://fonts.google.com/knowledge)：谷歌提供的关于字体的知识
-* []()
-* []()
-* []()
