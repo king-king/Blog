@@ -10,7 +10,7 @@
 
 ## 代码库
 
-* [react-window](https://www.npmjs.com/package/react-window)
+* [react-window](https://www.npmjs.com/package/react-window)：优化列表滚动效果，ant采用了这个技术
 * []()
 * []()
 * []()
